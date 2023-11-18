@@ -1,0 +1,23 @@
+.list {
+  box-shadow: #74c0fc 0px 0px 0px 2px;
+  margin: 14px;
+  border-radius: 4px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.list span {
+  cursor: pointer;
+  padding: 0px 14px;
+}
+.list .editInputBox {
+  outline: none;
+  border: none;
+  font-size: 18px;
+  width: 100%;
+  margin: 0px 14px;
+}
+.trash-icon {
+  font-size: 20px;
+  color: #f03e3e;
+}
